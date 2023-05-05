@@ -3,8 +3,6 @@ title: About
 layout: page
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
 <p>
 Undergraduate student who passionate in Cyber Security. Currently learning about Web Exploitation, Reverse Engineering, and Cryptography. Playing CTFs as kosong/ryuk with idek and Boys Who Cry.
 </p>
